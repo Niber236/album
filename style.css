@@ -1,16 +1,32 @@
 body{
-    background:rgb(39, 219, 147)
+    background:rgb(185, 99, 99);
+    background: url("cover.jpg***");
+
 }
 
 h1{
-    color: black;
+    color: rgb(255, 25, 0)
 }
-old{
+old
     
     p{
-        color: #be17ca;
-    }
+        color: #f70d0d;
 
+}
+img{
+animation-delay: 1s;
+animation:img 3s infinite;
+animation-name: img;
+opacity: 0;
+}
+@keyframes img {36
+    from{opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }*%
+    
+}
 
 
 
