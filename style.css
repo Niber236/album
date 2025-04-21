@@ -15,7 +15,7 @@ old
 }
 img{
 animation-delay: 1s;
-animation:img 3s infinite;
+animation:img 5s infinite;
 animation-name: img;
 opacity: 0;
 }
